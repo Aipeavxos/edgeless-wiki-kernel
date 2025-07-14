@@ -21,7 +21,7 @@ Edgeless拥有强大的兼容能力，您可以使用已有的PE寄生启动Edge
 
 ![](https://cloud.edgeless.top/picbed/wiki/images/picture3_1561399745392.png)
 
-1. 用WinRAR等压缩软件（或虚拟光驱软件）打开Edgeless的ISO镜像（[如何获得iso镜像](../faq/getiso.md)），**复制“Edgeless”文件夹到U盘根目录**
+2. 用WinRAR等压缩软件（或虚拟光驱软件）打开Edgeless的ISO镜像（[如何获得iso镜像](../faq/getiso.md)），**复制“Edgeless”文件夹到U盘根目录**
 
 
 :::danger 重要的步骤⬆
